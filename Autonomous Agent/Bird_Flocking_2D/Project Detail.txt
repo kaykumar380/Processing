@@ -1,0 +1,15 @@
+This Processing* Project shows:
+
+The flocking behavior of birds as described in
+Demonstration of Craig Reynolds' "Flocking" behavior (See: http://www.red3d.com/cwr/).
+3 Rules are used to show the flocking nature: Cohesion, Separation, Alignment
+
+This project shows how these behaviors quantatively regulates flocking.
+Click mouse to add a new boid to see its behavior.
+
+The work is inspired by Daniel shiffman's work :
+https://p5js.org/examples/simulate-flocking.html
+
+*Processing: Processing is a Java based flexible software sketchbook and a language for learning how to code within the context of the visual arts. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
+
+ 

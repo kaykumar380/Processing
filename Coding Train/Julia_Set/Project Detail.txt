@@ -1,0 +1,10 @@
+This Processing* Project shows:
+
+This is a demonstration of Julia set, defined by f = Z^2+C equation in complex plain.
+This project is animated and each frame assumes a new value for C.
+
+More on : https://en.wikipedia.org/wiki/Julia_set
+
+*Processing: Processing is a Java based flexible software sketchbook and a language for learning how to code within the context of the visual arts. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
+
+ 
